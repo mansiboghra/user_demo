@@ -2,7 +2,7 @@
 set -e
 
 # Replace {YOUR_GIT_REOPO_URL} with your actual Git repository URL
-GIT_REPO_URL="https://github.com/codewithmuh/django-aws-ec2-nginx-gunicorn.git"
+GIT_REPO_URL="https://github.com/mansiboghra/user_demo.git"
 
 # If using Private Repo
 #GIT_REPO_URL="https://<your_username>:<your_PAT>@github.com/codewithmuh/django-aws-ec2-autoscaling.git"
