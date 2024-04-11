@@ -1,0 +1,10 @@
+/venv/
+/media_cdn/
+/static_cdn/
+.env
+ssh
+.idea
+**/__pycache__/
+.git
+.DS_Store
+
